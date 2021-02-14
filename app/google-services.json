@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "131938690346",
+    "firebase_url": "https://qalanews-79472.firebaseio.com",
+    "project_id": "qalanews-79472",
+    "storage_bucket": "qalanews-79472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131938690346:android:388e2aabcec5d892c32a53",
+        "android_client_info": {
+          "package_name": "com.hajma.qalanews_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131938690346-mf62acgh1utc3cj7b8r5rh99p1425s4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hajma.qalanews_android",
+            "certificate_hash": "87931269717d6135c2a65b7fdc0c66b3dd5d0ecd"
+          }
+        },
+        {
+          "client_id": "131938690346-f5jt3rvnqjeu2cps21bls6e7qos31s4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2o9k58VAiecEpKB0fqzY6spKJ5fLzPRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131938690346-f5jt3rvnqjeu2cps21bls6e7qos31s4u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "131938690346-ucm79t9khmcg3jiedcmvj2pfutf3gb47.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hajma.qalanews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

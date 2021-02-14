@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">QalaNews</string>
+    <string name="latest_news">ПОСЛЕДНИЕ НОВОСТИ</string>
+    <string name="the_whole_world_in_one_window">Весь мир в одном окне</string>
+    <string name="activity">Активность</string>
+    <string name="readed">Прочтено</string>
+    <string name="saved">Сохраненный</string>
+    <string name="shared">Поделиться</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="password">Пароль</string>
+    <string name="re_password">П-Пароль</string>
+    <string name="email">Email</string>
+    <string name="username">Имя пользователя</string>
+    <string name="name_surname">Имя, Фамилия</string>
+    <string name="categories">Категории</string>
+    <string name="search">Поиск..</string>
+    <string name="login_panel_text">Пожалуйста, зарегистрируйтесь, чтобы использовать все функции</string>
+    <string name="login_panel_button">Зарегистрироваться</string>
+    <string name="added_to_saved">добавлено к сохраненному</string>
+    <string name="saved_is_emtpty">Сохраненный список пуст</string>
+    <string name="you_are_not_registered">Вы не зарегистрированы</string>
+    <string name="check_your_internet_connection">Проверьте ваше интернет соединение</string>
+    <string name="check_second_password">проверьте второй пароль</string>
+    <string name="username_or_email_are_exists">Е-почты или имя пользователя существуют</string>
+    <string name="register_success">Регистрация завершена</string>
+    <string name="login_success">Вход в систему завершен</string>
+    <string name="no_load_more_news">Нет загрузки больше новостей</string>
+    <string name="saved_news">Сохраненные новости</string>
+    <string name="_user">Пользователь</string>
+    <string name="_images">Картинки: </string>
+    <string name="_video">Видео: </string>
+    <string name="_you_are_not_registered_panel">Вы не зарегистрированы. Зарегистрируйтесь сейчас и наслаждайтесь всеми функциями.
+</string>
+
+
+
+
+
+
+
+</resources>

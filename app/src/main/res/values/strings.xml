@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QalaNews</string>
+    <string name="latest_news">LATEST NEWS</string>
+    <string name="the_whole_world_in_one_window">The whole world in one window</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="readed">Read</string>
+    <string name="saved">Saved</string>
+    <string name="shared">Shared</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re-Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="name_surname">Name, Surname</string>
+    <string name="categories">Categories</string>
+    <string name="search">Search..</string>
+    <string name="login_panel_text">Please register to use all the features</string>
+    <string name="login_panel_button">Register</string>
+    <string name="saved_is_emtpty">Saved list is empty</string>
+    <string name="added_to_saved">Added to saved</string>
+    <string name="you_are_not_registered">You are not registered</string>
+    <string name="check_your_internet_connection">Check your internet connection</string>
+    <string name="check_second_password">Check second password</string>
+    <string name="username_or_email_are_exists">Email or username are exists</string>
+    <string name="register_success">Register complete</string>
+    <string name="login_success">Login complete</string>
+    <string name="no_load_more_news">No load more news</string>
+    <string name="saved_news">Saved news</string>
+    <string name="_user">User</string>
+    <string name="_images">Images: </string>
+    <string name="_video">Video: </string>
+    <string name="_you_are_not_registered_panel">You are not registered. Sign up now and enjoy all the features.</string>
+
+
+</resources>

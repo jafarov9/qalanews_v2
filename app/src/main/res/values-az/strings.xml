@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">QalaNews</string>
+    <string name="latest_news">SON XƏBƏRLƏR</string>
+    <string name="the_whole_world_in_one_window">Bütün dünya bir pəncərədə</string>
+    <string name="activity">AKTİVLİK</string>
+    <string name="readed">Oxunub</string>
+    <string name="saved">Yüklənib</string>
+    <string name="shared">Paylaşılıb</string>
+    <string name="sign_in">Daxil Ol</string>
+    <string name="sign_up">Qeydiyyat</string>
+    <string name="password">Şifrə</string>
+    <string name="re_password">T-Şifrə</string>
+    <string name="email">Email</string>
+    <string name="username">İstifadəçi adı</string>
+    <string name="name_surname">Ad, Soyad</string>
+    <string name="categories">Kateqoriyalar</string>
+    <string name="search">Axtarış..</string>
+    <string name="login_panel_text">Zəhmət olmasa qeydiyyatdan keçin ki, bütün funksiyalardan istifadə edəsiniz</string>
+    <string name="login_panel_button">Qeydiyyat</string>
+    <string name="saved_is_emtpty">Saxlanılan siyahı boşdur</string>
+    <string name="added_to_saved">Yüklənənlərə əlavə edildi</string>
+    <string name="you_are_not_registered">Siz qeydiyyatdan keçməmisiniz</string>
+    <string name="check_your_internet_connection">İnternet bağlantınızı yoxlayın</string>
+    <string name="check_second_password">İkinci şifrəni yoxlayın</string>
+    <string name="username_or_email_are_exists">E-poçt və ya istifadəçi adı mövcuddur</string>
+    <string name="register_success">Qeydiyyat tamamlandı</string>
+    <string name="login_success">Giriş tamamlandı</string>
+    <string name="no_load_more_news">Daha çox xəbər yoxdur</string>
+    <string name="saved_news">Yüklənən xəbərlər</string>
+    <string name="_user">İstifadəçi</string>
+    <string name="_images">Şəkillər: </string>
+    <string name="_video">Video: </string>
+    <string name="_you_are_not_registered_panel">Siz qeydiyyatdan keçməmisiniz. Elə indi qeydiyyatdan keçin və bütün funksiyalardan istifadə edin.</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
